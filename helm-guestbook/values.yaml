@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: hello-world
+  repository: heroku/nodejs-hello-world
   tag: 0.1
   pullPolicy: IfNotPresent
 
