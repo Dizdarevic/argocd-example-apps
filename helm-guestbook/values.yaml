@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: heroku/nodejs-hello-world
+  repository: dockercloud/hello-world
   tag: 0.1
   pullPolicy: IfNotPresent
 
