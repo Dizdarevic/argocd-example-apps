@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: nginxdemos/hello
+  repository: kitematic/hello-world-nginx
   tag: latest
   pullPolicy: IfNotPresent
 
