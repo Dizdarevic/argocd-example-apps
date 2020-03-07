@@ -5,7 +5,8 @@
 replicaCount: 1
 
 image:
-  repository: tutum/hello-world
+  repository: nginxdemos/hello
+  # repository: tutum/hello-world
   tag: latest
   pullPolicy: IfNotPresent
 
