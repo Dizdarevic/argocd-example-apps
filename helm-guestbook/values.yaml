@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: nginxdemos/hello
+  repository: hello-world
   tag: 0.1
   pullPolicy: IfNotPresent
 
